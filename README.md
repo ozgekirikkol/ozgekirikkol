@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ozgekirikkol
-- 👀 I’m interested in developing in test
+- 👀 I’m interested in developing test 
 - 🌱 I’m currently learning HTML,CSS and React
 - 📫 How to reach me ozgekirikkol@gmail.com
 
